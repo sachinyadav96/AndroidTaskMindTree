@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Task</string>
+    <string name="enter_text_to_search">Enter First Name /Last Name/ Email to search</string>
+    <string name="oops_no_data_found">Oops no data found!</string>
+
+    <string name="swipe_right_to_view">Swipe right to View</string>
+</resources>
